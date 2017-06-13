@@ -9,6 +9,7 @@
     - Go over format of podcast
         - My stories
         - Guest stories
+        
 ## Section two-Isolation (~5:00)
 - Source of my nightmares as a child:
     - Feeling of isolation and difference from my family
@@ -26,12 +27,14 @@
     - Real sensation of falling
 - Meaning? 
     - Pretty crazy and different as a kid
+    
 ## Section three-Guest Stories (~5:00)
 - Sources of YOUR nightmares:
     - Guest 1
     - Guest 2
 - What do you think of these nightmares now as an adult? Laughable? Still scary? 
 - Why do you think you had them? Meaning? 
+
 ## Section four-The End (~2:00)
 - Just me on air to close the show
 - Thank viewers
